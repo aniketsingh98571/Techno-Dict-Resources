@@ -1,0 +1,23 @@
+body{
+    color: white;
+}
+.data{
+    /*border: 2px solid red;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+    
+}
+.data h3{
+    font-size:1.5rem;
+    margin-right: 20px;
+    
+}
+.data p{
+    font-size: 1.3rem;
+}
+a{
+    color: white;
+}

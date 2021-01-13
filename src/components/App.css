@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.top-header{
+background-color:#191009;
+margin-bottom: 15px;
+}
+.top-header h1{
+  color:#FFFFFF;
+  text-align: center;
+  height: 10vh;
+  padding-top: 23px;
+}
+.App{
+  background-image: url("./assets/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150vh;
+}
+h2{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  
+}
+.bottom-header{
+margin-bottom: 30px;
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
