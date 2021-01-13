@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="top-header">
-          <h1>Techno-Dict Resources</h1>
+          <h1>TechnoDict Resources</h1>
         </div>
         <Content header="DBMS Roadmap" link="https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo"/>
         <Content header="Competitive Programming" link="https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h"/>
