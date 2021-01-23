@@ -15,6 +15,9 @@ class App extends Component {
         <Content header="Competitive Programming" link="https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h"/>
         <Content header="OOP Roadmap" link="https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw"/>
         <Content header="OS Roadmap" link="https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ"/>
+       <Content header="SDE Problems" link="https://docs.google.com/document/u/0/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/mobilebasic?urp=gmail_link&gxids=7628"/>
+       <Content header="CP Problems" link="https://docs.google.com/document/u/0/d/1vShwt8yXYUOgkF53-iYAuJXWR7Yi5VSJrW2xB49o0PM/mobilebasic?urp=gmail_link&gxids=7628"/>
+      <Content header="450 DS-Algo Problems" link="https://docs.google.com/spreadsheets/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/edit#gid=1773184282"/>
         <hr></hr>
         <h2>Youtube Channels:-</h2>
         <Content header="love babbar" link="https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw"/>
